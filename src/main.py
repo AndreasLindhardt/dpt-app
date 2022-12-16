@@ -1,5 +1,6 @@
 import pandas as pd
 import streamlit as st
+from streamlit_server_state import server_state, server_state_lock
 
 df = pd.read_csv('./res/list-of-players.csv', delimiter=';')
 
@@ -14,12 +15,14 @@ def check_team_in(team):
     if team in st.session_state.check_in_dict.keys():
         if st.session_state.check_in_dict[team] == 1:
             st.session_state.check_in_dict[team] = 0
+            st.markdown(f'{team}, er nu tjekket ud igen.')
         else:
             st.session_state.check_in_dict[team] = 1
+            st.markdown(f'Velkommen {team}, I er nu tjekket ind.')
     else:
         st.session_state.check_in_dict[team] = 1
+        st.markdown(f'Velkommen {team}, I er nu tjekket ind.')
     
-    st.markdown(f'Velkommen {team}, I er nu tjekket ind.  \n Husk at der er gratis fadøl og smøger i baren.')
 
 with st.sidebar:
     view = st.radio('Vælg visning', ['Indmelding', 'Dommerbord'])
