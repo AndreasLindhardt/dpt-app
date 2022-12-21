@@ -20,19 +20,19 @@ def check_team_in(team):
         else:
             server_state.check_in_dict[team] = 1
             st.balloons()
-            time.sleep(2)
+            time.sleep(1.8)
             st.markdown(f'## Velkommen {team}, I er nu tjekket ind. ##')
     else:
         server_state.check_in_dict[team] = 1
         st.balloons()
-        time.sleep(2)
+        time.sleep(1.8)
         st.markdown(f'### Velkommen {team}, I er nu tjekket ind. ###')
     
 
 with st.sidebar:
     view = st.radio('Vælg visning', ['Indmelding', 'Dommerbord'])
 
-st.markdown("# DPT NYTÅRSKUR #")
+st.markdown("# DANISH PADEL TOUR NEW YEAR #")
 
 if view == 'Indmelding':
 
@@ -60,11 +60,14 @@ else:
     class_df.drop_duplicates(inplace=True)
     class_df_grouped = class_df.groupby(["Class"])[["TeamName", "Check-in status"]].agg('count')
     
+    
     st.markdown("### DOMMERBORD ###")
     st.markdown("---")
+    st.markdown("#### Check-in status ####")
     st.dataframe(class_df_grouped)
     st.markdown("---")
-    st.dataframe(hold_df[["Class", "TeamName", "Checked In"]].drop_duplicates())
-
-
-#st.write(server_state["check_in_dict"])
+    st.markdown("#### Hold der ikke er checket ind ####")
+    st.dataframe(hold_df[["Class", "TeamName", "Checked In", "Phone"]][hold_df["Checked In"]=="Nej"].sort_values(["Class", "TeamName"]))
+    st.markdown("---")
+    st.markdown("#### Hold der er checket ind ####")
+    st.dataframe(hold_df[["Class", "TeamName", "Checked In"]][hold_df["Checked In"]=="Ja"].drop_duplicates().sort_values("Class"))
