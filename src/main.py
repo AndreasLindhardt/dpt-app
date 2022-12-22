@@ -48,7 +48,7 @@ if view == 'Indmelding':
         st.image('res/dpt text.png')
     
     st.markdown('---')
-    team = st.selectbox('Vælg par (der kan søges i feltet)', list_of_teams)
+    team = st.selectbox('Vælg par (begynd at skrive for at søge i feltet)', list_of_teams)
 
     check_in = st.button('Check in')
 
