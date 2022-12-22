@@ -27,7 +27,11 @@ def check_team_in(team):
         st.balloons()
         time.sleep(1.8)
         st.markdown(f'### Velkommen {team}, I er nu tjekket ind. ###')
-    
+
+st.set_page_config(
+    page_title='DPT CHECK IN',
+    initial_sidebar_state='collapsed'
+)
 
 with st.sidebar:
     view = st.radio('Vælg visning', ['Indmelding', 'Dommerbord'])
