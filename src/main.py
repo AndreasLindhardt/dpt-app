@@ -54,6 +54,8 @@ if view == 'Indmelding':
 
     if check_in:
         check_team_in(team)
+
+    st.image('res/padelshoppen.png')
 else:
     check_in_df = pd.DataFrame.from_dict(server_state["check_in_dict"], orient='index')
     check_in_df.rename({0:'Check-in status'}, axis=1, inplace=True)
