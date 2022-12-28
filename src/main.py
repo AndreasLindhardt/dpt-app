@@ -55,7 +55,14 @@ if view == 'Indmelding':
     if check_in:
         check_team_in(team)
 
-    st.write("  \n   \n")
+    st.write(" ")
+    st.write(" ")
+    st.write(" ")
+    st.write(" ")
+    st.write(" ")
+    st.write(" ")
+    st.write(" ")
+
 
     st.image('res/padelshoppen.png')
 else:
@@ -65,13 +72,18 @@ else:
     hold_df["Checked In"] = hold_df["Check-in status"].apply(lambda x: "Ja" if x == 1 else "Nej")
     hold_df_grouped = hold_df.groupby(["Class", "TeamName"])["Check-in status"].agg('mean').fillna(0)
     class_df = hold_df[["Class", "TeamName", "Check-in status"]].copy()
+    class_df = class_df.fillna(0)
+    class_df["Check-in status"] = class_df["Check-in status"].astype('int')
     class_df.drop_duplicates(inplace=True)
-    class_df_grouped = class_df.groupby(["Class"])[["TeamName", "Check-in status"]].agg('count')
+    class_df_grouped = class_df.groupby(["Class"])[["TeamName", "Check-in status"]].agg('sum').sort_values("Class")
+
+    checked_in = class_df["Check-in status"].sum()
     
     
     st.markdown("### DOMMERBORD ###")
     st.markdown("---")
     st.markdown("#### Check-in status ####")
+    st.markdown( f'# Antal check-ins:   {str(checked_in)} #')
     st.dataframe(class_df_grouped)
     st.markdown("---")
     st.markdown("#### Hold der ikke er checket ind ####")
