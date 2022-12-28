@@ -83,8 +83,7 @@ else:
     
     st.markdown("### DOMMERBORD ###")
     st.markdown("---")
-    st.markdown(f'#### Check-in status {str(checked_in)}/{(str(len(list_of_teams)))} ####')
-    st.markdown( f'# Antal check-ins:    #')
+    st.markdown(f'### Check-in status {str(checked_in)}/{(str(len(list_of_teams)))} ###')
     st.dataframe(class_df_grouped)
     st.markdown("---")
     st.markdown("#### Hold der ikke er checket ind ####")
