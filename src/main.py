@@ -4,6 +4,7 @@ import time
 from streamlit_server_state import server_state, server_state_lock
 
 df = pd.read_csv('./res/list-of-players.csv', delimiter=';')
+df = df[~df["Class"].str.contains('FREDAG')]
 
 list_of_teams = sorted(list(set(df["TeamName"])))
 
@@ -82,8 +83,8 @@ else:
     
     st.markdown("### DOMMERBORD ###")
     st.markdown("---")
-    st.markdown("#### Check-in status ####")
-    st.markdown( f'# Antal check-ins:   {str(checked_in)} #')
+    st.markdown(f'#### Check-in status {str(checked_in)}/{(str(len(list_of_teams)))} ####')
+    st.markdown( f'# Antal check-ins:    #')
     st.dataframe(class_df_grouped)
     st.markdown("---")
     st.markdown("#### Hold der ikke er checket ind ####")
