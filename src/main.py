@@ -90,4 +90,4 @@ else:
     st.dataframe(hold_df[["Class", "TeamName", "Checked In", "Phone"]][hold_df["Checked In"]=="Nej"].sort_values(["Class", "TeamName"]))
     st.markdown("---")
     st.markdown("#### Hold der er checket ind ####")
-    st.dataframe(hold_df[["Class", "TeamName", "Checked In"]][hold_df["Checked In"]=="Ja"].drop_duplicates().sort_values("Class"))
+    st.dataframe(hold_df[["Class", "TeamName", "Checked In"]][hold_df["Checked In"]=="Ja"].drop_duplicates().sort_values(["Class", "TeamName"]))
