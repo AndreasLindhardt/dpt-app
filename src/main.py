@@ -4,7 +4,7 @@ import time
 from streamlit_server_state import server_state, server_state_lock
 
 df = pd.read_csv('./res/list-of-players.csv', delimiter=';')
-df = df[~df["Class"].str.contains('FREDAG')]
+df = df[~df["Class"].str.contains('TORSDAG')]
 
 list_of_teams = sorted(list(set(df["TeamName"])))
 
