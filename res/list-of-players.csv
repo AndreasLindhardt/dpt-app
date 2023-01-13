@@ -1,139 +1,87 @@
-﻿Id;SPIN;Name;Class;BirthDate;Email;Phone;TeamId;TeamName;EntryDate;EntryInfo;PaymentDate;PaymentInfo;Player's Home Club;Ranking Points
-R000134814;;Mie Ekdahl;DAME DPF100 (FREDAG 14-21);20-05-1989;ekdahl_junior@hotmail.com;20950875;576652;Mie Ekdahl/Line Ekdahl;30-11-2022 19:28;Joined by User;;;Vipadel Slagelse;87
-R000119668;;Line Ekdahl;DAME DPF100 (FREDAG 14-21);09-06-1987;ekdahl_senior@hotmail.com;4520451891;576652;Mie Ekdahl/Line Ekdahl;30-11-2022 19:28;Joined by User;;;Vipadel Slagelse;262
-R000168788;;Maja Bech;DAME DPF100 (FREDAG 14-21);17-05-1988;majabech@msn.com;51252999;577385;Maja Bech/Mirela Kristensen;01-12-2022 12:24;Joined by User;;;;0
-R000147645;;Mirela Kristensen;DAME DPF100 (FREDAG 14-21);11-07-1994;mirelalak@hotmail.com;42912833;577385;Maja Bech/Mirela Kristensen;01-12-2022 12:24;Joined by User;;;;24
-R000118695;;Tine Bjørneboe;DAME DPF100 (FREDAG 14-21);16-12-1976;tine@1612.dk;22993594;581760;Tine Bjørneboe/Lene Steen-Roed;04-12-2022 21:11;Joined by User;;;;206
-R000120284;;Lene Steen-Roed;DAME DPF100 (FREDAG 14-21);11-03-1975;steen-roed@hotmail.com;20782606;581760;Tine Bjørneboe/Lene Steen-Roed;04-12-2022 21:11;Joined by User;;;Holbæk Padel Klub;315
-R000148745;;Linda Kamstrup;DAME DPF100 (FREDAG 14-21);13-06-1979;lindakamstrup@hotmail.com;31717977;585302;Linda Kamstrup/Yvonne Emery Høystad;06-12-2022 19:15;Joined by User;;;Lynge-Broby Idrætsforening;24
-R000148332;;Yvonne Emery Høystad;DAME DPF100 (FREDAG 14-21);07-09-1971;yvonneemery7@gmail.com;27639214;585302;Linda Kamstrup/Yvonne Emery Høystad;06-12-2022 19:15;Joined by User;;;Lynge-Broby Idrætsforening;33
-R000117291;;Stine Olesen;DAME DPF100 (FREDAG 14-21);12-07-1976;stinenederskov@gmail.com;61670468;585558;Stine Olesen/pia munk;07-12-2022 05:22;Joined by User;;;Dansk Padel Forbund;447
-R000117448;;pia munk;DAME DPF100 (FREDAG 14-21);18-05-1975;munk2u@hotmail.com;22295340;585558;Stine Olesen/pia munk;07-12-2022 05:22;Joined by User;;;Holbæk Padel Klub;69
-R000150785;;Pia Marcher;DAME DPF100 (FREDAG 14-21);23-06-1967;marcher67@msn.com;60821282;595874;Pia Marcher/Camilla Kristensen;16-12-2022 05:22;Joined by User;;;Padelfun4all;6
-R000154845;;Camilla Kristensen;DAME DPF100 (FREDAG 14-21);27-03-1981;camilla_carlsen@yahoo.dk;4521770116;595874;Pia Marcher/Camilla Kristensen;16-12-2022 05:22;Joined by User;;;Padelfun4all;4
-R000140265;;Jannie Erbs Eriksen;DAME DPF100 (FREDAG 14-21);06-03-1975;jannieerbs@gmail.com;40243005;599721;Jannie Erbs Eriksen/Dorte Kayser;19-12-2022 10:25;Joined by User;;;Dansk Padel Forbund;1146.5
-R000075351;;Dorte Kayser;DAME DPF100 (FREDAG 14-21);05-03-1969;dorte.kayser@mail.dk;24256326;599721;Jannie Erbs Eriksen/Dorte Kayser;19-12-2022 10:25;Joined by User;;;Holbæk Padel Klub;822
-R000171664;;Emma Tranberg;DAME DPF100 (FREDAG 14-21);26-02-1997;emma.tranberg@hotmail.com;20769608;605219;Emma Tranberg/Sille Tranberg;24-12-2022 13:04;Joined by User;;;;0
-R000171661;;Sille Tranberg;DAME DPF100 (FREDAG 14-21);26-02-1997;silletranberg@hotmail.com;20656308;605219;Emma Tranberg/Sille Tranberg;24-12-2022 13:04;Joined by User;;;;0
-R000051067;;Erik Kjær;HERRER DPF400 (FREDAG 09-14);06-02-1985;kjaer85@hotmail.com;28922839;584337;Erik Kjær/Oliver Gram;06-12-2022 11:09;Joined by User;;;Team ZERV;909
-R000119274;;Oliver Gram;HERRER DPF400 (FREDAG 09-14);10-07-1999;olivergram1@gmail.com;28601099;584337;Erik Kjær/Oliver Gram;06-12-2022 11:09;Joined by User;;;Team ZERV;1095
-R000118469;;Thomas Rune;HERRER DPF400 (FREDAG 09-14);02-07-1982;tr@mtmservice.dk;22337284;587011;Thomas Rune/Michael Theilmann Møller;08-12-2022 13:44;Joined by User;;;Match padel Næstved;944
-R000079136;;Michael Theilmann Møller;HERRER DPF400 (FREDAG 09-14);17-12-1978;3040michael@gmail.com;41 42 17 12;587011;Thomas Rune/Michael Theilmann Møller;08-12-2022 13:44;Joined by User;;;Match padel Næstved;1078.5
-R000075874;;Nicolai Broe Larsen;HERRER DPF400 (FREDAG 09-14);14-08-1991;nicobroe7@yahoo.dk;31967434;589930;Nicolai Broe Larsen/Frederik Broe Larsen;10-12-2022 21:24;Joined by User;;;Holbæk tennis og padel klub;3015
-R000075463;;Frederik Broe Larsen;HERRER DPF400 (FREDAG 09-14);14-08-1991;frederikbroe_larsen@hotmail.com;30457447;589930;Nicolai Broe Larsen/Frederik Broe Larsen;10-12-2022 21:24;Joined by User;;;Holbæk tennis og padel klub;3855
-R000132569;;Rajko Lekic;HERRER DPF400 (FREDAG 09-14);03-07-1981;rajko.lekic08@gmail.com;27152044;595586;Rajko Lekic/Mathias Olesen;15-12-2022 18:45;Joined by User;;;;1346
-R000083120;;Mathias Olesen;HERRER DPF400 (FREDAG 09-14);16-07-1997;mathias-brix@hotmail.com;29908336;595586;Rajko Lekic/Mathias Olesen;17-12-2022 21:12;Joined by User;;;Padellife;1498
-R000043216;;Dennis Kejser;HERRER DPF400 (FREDAG 09-14);06-07-1976;denniskejser@gmail.com;39 48 80 94;599056;Dennis Kejser/Marc Ferrigno;18-12-2022 11:55;Joined by User;;;Dansk Padel Forbund;1483
-R000077830;;Marc Ferrigno;HERRER DPF400 (FREDAG 09-14);22-07-1990;mfo@majinvest.com;28117366;599056;Dennis Kejser/Marc Ferrigno;18-12-2022 11:55;Joined by User;;;Racket Club;299
-R000080838;;Nichlas Hindsberg;HERRER DPF400 (FREDAG 09-14);07-05-1975;nichlashjem@gmail.com;31521228;601962;Nichlas Hindsberg/Ulrik Truesen;20-12-2022 18:36;Joined by User;;;Dansk Padel Forbund;1003.7
-R000080877;;Ulrik Truesen;HERRER DPF400 (FREDAG 09-14);no-consent;no-consent;no-consent;601962;Nichlas Hindsberg/Ulrik Truesen;20-12-2022 18:36;Joined by User;;;Dansk Padel Forbund;749.2
-R000134922;;Simon Lander Raagaard;HERRER DPF400 (FREDAG 09-14);23-03-1987;raagaard.simon@gmail.com;25 65 75 26;605189;Simon Lander Raagaard/Nicolai Ferrigno;24-12-2022 12:35;Joined by User;;;Dansk Padel Forbund;1643
-R000077831;;Nicolai Ferrigno;HERRER DPF400 (FREDAG 09-14);no-consent;no-consent;no-consent;605189;Simon Lander Raagaard/Nicolai Ferrigno;24-12-2022 12:35;Joined by User;;;;185
-R000046942;;Mads Holm-Hansen;HERRER DPF400 (FREDAG 09-14);14-06-1984;mads@sjaelsoelund.dk;4528309743;606180;Mads Holm-Hansen/Peter Holm-Hansen;25-12-2022 17:32;Joined by User;;;ProPadel Denmark;259
-R000051317;;Peter Holm-Hansen;HERRER DPF400 (FREDAG 09-14);no-consent;no-consent;no-consent;606180;Mads Holm-Hansen/Peter Holm-Hansen;25-12-2022 17:32;Joined by User;;;The Padel Club;1921.2
-R000134814;;Mie Ekdahl;MIX DPF200 (FREDAG 09-14);20-05-1989;ekdahl_junior@hotmail.com;20950875;576650;Mie Ekdahl/Søren Christensen;30-11-2022 19:26;Joined by User;;;Vipadel Slagelse;123
-R000053391;;Søren Christensen;MIX DPF200 (FREDAG 09-14);20-10-1976;sbandholtz@yahoo.dk;20714956;576650;Mie Ekdahl/Søren Christensen;30-11-2022 19:26;Joined by User;;;Racket Club Slagelse;123
-R000051632;;Martin Frederiksen;MIX DPF200 (FREDAG 09-14);06-09-1974;frederiksenmartin85@gmail.com;22283008;576651;Martin Frederiksen/Line Ekdahl;30-11-2022 19:28;Joined by User;;;Racket Club Slagelse;0
-R000119668;;Line Ekdahl;MIX DPF200 (FREDAG 09-14);09-06-1987;ekdahl_senior@hotmail.com;4520451891;576651;Martin Frederiksen/Line Ekdahl;30-11-2022 19:28;Joined by User;;;Vipadel Slagelse;0
-R000044020;;Rikke Kolding Hansen;MIX DPF200 (FREDAG 09-14);07-01-1976;rikke.kh@gmail.com;22648542;576723;Rikke Kolding Hansen/Michael Frandsen;30-11-2022 20:44;Joined by User;;;;156
-R000112043;;Michael Frandsen;MIX DPF200 (FREDAG 09-14);30-09-1989;michaelfrandsen89@hotmail.com;23364039;576723;Rikke Kolding Hansen/Michael Frandsen;30-11-2022 20:44;Joined by User;;;Match padel Næstved;134
-R000076774;;Nicolai Hollmann;MIX DPF200 (FREDAG 09-14);16-08-1990;ttt_2640@hotmail.com;53669965;578100;Nicolai Hollmann/Sandra Borgensgaard Johansen;02-12-2022 09:47;Joined by User;;;;605
-R000115794;;Sandra Borgensgaard Johansen;MIX DPF200 (FREDAG 09-14);26-06-1994;sannbj@hotmail.com;81 61 85 85;578100;Nicolai Hollmann/Sandra Borgensgaard Johansen;02-12-2022 09:47;Joined by User;;;PadelPadel København;710
-R000101371;;Sabine Marer Thomsen;MIX DPF200 (FREDAG 09-14);28-06-1991;sabinethomsen@hotmail.com;28571146;579631;Sabine Marer Thomsen/Lasse Funk Støchkel;03-12-2022 00:14;Joined by User;;;Racket Club;244
-R000076754;;Lasse Funk Støchkel;MIX DPF200 (FREDAG 09-14);13-04-1989;funk@live.dk;40766992;579631;Sabine Marer Thomsen/Lasse Funk Støchkel;03-12-2022 00:14;Joined by User;;;One Lob Wonders x PadelPadel;209
-R000143383;;Margit Marell;MIX DPF200 (FREDAG 09-14);18-02-1967;margit@marell.dk;29 89 24 24;583623;Margit Marell/Andreas Hallenberg;05-12-2022 19:34;Joined by User;;;Hovedstadens Padel Klub;0
-R000168926;;Andreas Hallenberg;MIX DPF200 (FREDAG 09-14);08-05-2002;andreashallenberg@gmail.com;30 49 68 92;583623;Margit Marell/Andreas Hallenberg;05-12-2022 19:34;Joined by User;;;Hovedstadens Padel Klub;0
-R000052374;;Anni Hansen;MIX DPF200 (FREDAG 09-14);29-09-1972;anni72@outlook.dk;21497188;594395;Anni Hansen/Martin Retov;14-12-2022 18:35;Joined by User;;;;600
-R000055834;;Martin Retov;MIX DPF200 (FREDAG 09-14);05-05-1980;mretov@yahoo.dk;29891540;594395;Anni Hansen/Martin Retov;14-12-2022 18:35;Joined by User;;;;0
-R000122050;;Sissel Trap;MIX DPF200 (FREDAG 09-14);04-07-1988;sisseltrap@hotmail.com;27290227;595934;Sissel Trap/Martin Eiler;16-12-2022 10:09;Joined by User;;;Racket Club;240
-R000050824;;Martin Eiler;MIX DPF200 (FREDAG 09-14);08-08-1970;mmeilerdk@gmail.com;4552150064;595934;Sissel Trap/Martin Eiler;16-12-2022 10:09;Joined by User;;;Hovedstadens Padel Klub;170
-R000082820;;Simon Jørgensen;HERRER DPF200 (FREDAG 14-21);16-04-1999;simon2dencher@gmail.com;4540502599;576056;Simon Jørgensen/Oliver Koch;30-11-2022 08:05;Joined by User;;;;453.3
-R000101573;;Oliver Koch;HERRER DPF200 (FREDAG 14-21);no-consent;no-consent;no-consent;576056;Simon Jørgensen/Oliver Koch;30-11-2022 08:05;Joined by User;;;;737
-R000081959;;Mikael Thomas;HERRER DPF200 (FREDAG 14-21);29-04-1989;mikael@christensen.dk;50 13 50 13;579370;Mikael Thomas/Andreas Brogaard Pedersen;02-12-2022 20:17;Joined by User;;;Racket Club;510
-R000124938;;Andreas Brogaard Pedersen;HERRER DPF200 (FREDAG 14-21);28-10-1994;andreas@brogaardpedersen.dk;61600582;579370;Mikael Thomas/Andreas Brogaard Pedersen;02-12-2022 20:17;Joined by User;;;Roskilde Padel Klub;329.6
-R000052150;;Marc Nielsson;HERRER DPF200 (FREDAG 14-21);15-10-1990;marc_nielsson@hotmail.com;61300767;581885;Marc Nielsson/Rasmus Lindberg Møller;05-12-2022 06:42;Joined by User;;;Team STATE;673.3
-R000052452;;Rasmus Lindberg Møller;HERRER DPF200 (FREDAG 14-21);no-consent;no-consent;no-consent;581885;Marc Nielsson/Rasmus Lindberg Møller;05-12-2022 06:42;Joined by User;;;Team STATE;558.3
-R000053301;;Mikael Christensen;HERRER DPF200 (FREDAG 14-21);15-11-1979;mikaelc79@hotmail.com;21341863;581931;Mikael Christensen/Paw Eriksen;05-12-2022 09:20;Joined by User;;;Team ZERV;497
-R000052553;;Paw Eriksen;HERRER DPF200 (FREDAG 14-21);15-01-1999;pawskole@outlook.dk;60161353;581931;Mikael Christensen/Paw Eriksen;05-12-2022 09:20;Joined by User;;;Team ZERV;718.4
-R000132394;;Nicklas Kany;HERRER DPF200 (FREDAG 14-21);15-07-1984;nicklaskany@yahoo.dk;31216556;593372;Nicklas Kany/Malte Thyregod;14-12-2022 13:52;Joined by User;;;Racket Club Dragør;738.8
-R000132132;;Malte Thyregod;HERRER DPF200 (FREDAG 14-21);05-10-1996;malte-t@live.dk;29633281;593372;Nicklas Kany/Malte Thyregod;14-12-2022 13:52;Joined by User;;;;357
-R000081626;;Lavdrim Krasniqi;HERRER DPF200 (FREDAG 14-21);18-11-1998;lavdrim-krasniqi@hotmail.com;51620521;595778;Lavdrim Krasniqi/Leotrim Krasniqi;15-12-2022 21:20;Joined by User;;;Odense Padel Club;783
-R000140780;;Leotrim Krasniqi;HERRER DPF200 (FREDAG 14-21);no-consent;no-consent;no-consent;595778;Lavdrim Krasniqi/Leotrim Krasniqi;15-12-2022 21:20;Joined by User;;;Dansk Padel Forbund;309
-R000055621;;Christian Rønberg;HERRER DPF200 (FREDAG 14-21);12-09-1985;christian.roenberg@gmail.com;52150286;597321;Christian Rønberg/Nickolai Linde Nielsen;17-12-2022 07:23;Joined by User;;;Padel Yard Reffen;499
-R000043362;;Nickolai Linde Nielsen;HERRER DPF200 (FREDAG 14-21);31-10-1985;nickolailinde@gmail.com;3,75691E+14;597321;Christian Rønberg/Nickolai Linde Nielsen;17-12-2022 07:23;Joined by User;;;Padel Yard Reffen;636
-R000121199;;Martin Garcia Svane;HERRER DPF200 (FREDAG 14-21);19-08-1980;mgs@haarbyefterskole.dk;50505773;605886;Martin Garcia Svane/Mark Pedersen;25-12-2022 10:45;Joined by User;;;Nyborg Tennis og Padelklub;434.4
-R000119311;;Mark Pedersen;HERRER DPF200 (FREDAG 14-21);24-12-1977;mtp2412@hotmail.com;30321939;605886;Martin Garcia Svane/Mark Pedersen;25-12-2022 10:45;Joined by User;;;Nyborg Tennis og Padelklub;600
-R000127683;;Nicolaj Lyng Dahl;HERRER DPF100 (FREDAG 14-21);10-02-1999;nicolajlyng@hotmail.com;50495089;584136;Nicolaj Lyng Dahl/Jacob Dybdahl;06-12-2022 10:21;Joined by User;;;Racket Club;485.4
-R000110598;;Jacob Dybdahl;HERRER DPF100 (FREDAG 14-21);13-11-1998;jacob2600@live.dk;60168106;584136;Nicolaj Lyng Dahl/Jacob Dybdahl;06-12-2022 10:21;Joined by User;;;;284.5
-R000120286;;Josva Engmose Jensen;HERRER DPF100 (FREDAG 14-21);26-10-1994;josva.94@hotmail.com;50591044;599200;Josva Engmose Jensen/Mikkel Vibjerg;18-12-2022 17:22;Joined by User;;;Racket Club;432.2
-R000054882;;Mikkel Vibjerg;HERRER DPF100 (FREDAG 14-21);20-04-1995;vibjergmikkel@gmail.com;4520825593;599200;Josva Engmose Jensen/Mikkel Vibjerg;18-12-2022 17:22;Joined by User;;;;196
-R000120769;;Mads Wittrup;HERRER DPF100 (FREDAG 14-21);25-09-1986;mads.wittrup@gmail.com;222 26 000;602150;Mads Wittrup/Philip Pedersen;21-12-2022 08:44;Joined by User;;;Racket Club;486
-R000125181;;Philip Pedersen;HERRER DPF100 (FREDAG 14-21);no-consent;no-consent;no-consent;602150;Mads Wittrup/Philip Pedersen;21-12-2022 08:44;Joined by User;;;;20
-R000080610;;Carsten Lentz;HERRER DPF100 (FREDAG 14-21);22-06-1979;carsten@lentz.it;40432299;602198;Carsten Lentz/Andy Rye;21-12-2022 09:54;Joined by User;;;Ølstykke Padel;114
-R000069374;;Andy Rye;HERRER DPF100 (FREDAG 14-21);no-consent;no-consent;no-consent;602198;Carsten Lentz/Andy Rye;21-12-2022 09:54;Joined by User;;;Køge Padel Klub;613.5
-R000152390;;Teis Gröflin Corneliussen;HERRER DPF100 (FREDAG 14-21);03-01-1976;teiscorneliussen@yahoo.dk;4540933747;603891;Teis Gröflin Corneliussen/Lars Mayland;23-12-2022 06:13;Joined by User;;;;380
-R000132160;;Lars Mayland;HERRER DPF100 (FREDAG 14-21);27-06-1976;larsmayland@gmail.com;4529829391;603891;Teis Gröflin Corneliussen/Lars Mayland;23-12-2022 06:13;Joined by User;;;;120
-R000081036;;Usama Kokaly;HERRER DPF100 (FREDAG 14-21);17-04-1988;usamakokaly@gmail.com;50248792;605352;Usama Kokaly/Luigi Sabatini;24-12-2022 18:28;Joined by User;;;;224.75
-R000093704;;Luigi Sabatini;HERRER DPF100 (FREDAG 14-21);21-12-1990;luigism90@hotmail.com;4528451523;605352;Usama Kokaly/Luigi Sabatini;24-12-2022 18:28;Joined by User;;;;468.3
-R000135936;;Jesper Lund;HERRER DPF100 (FREDAG 14-21);16-01-1981;jesperlund@live.dk;24909552;606086;Jesper Lund/Thomas Olsen;25-12-2022 14:33;Joined by User;;;Match padel Næstved;472
-R000160820;;Thomas Olsen;HERRER DPF100 (FREDAG 14-21);15-04-1981;fckolsen@gmail.com;20677666;606086;Jesper Lund/Thomas Olsen;25-12-2022 14:33;Joined by User;;;Racket Club Slagelse;0
-R000120904;;Samuel Halldorsson;HERRER DPF100 (FREDAG 14-21);15-10-1984;sdhalldorsson@gmail.com;24643453;606186;Samuel Halldorsson/Casper Gjelstrup;25-12-2022 18:21;Joined by User;;;Padelfun4all;154
-R000116420;;Casper Gjelstrup;HERRER DPF100 (FREDAG 14-21);no-consent;no-consent;no-consent;606186;Samuel Halldorsson/Casper Gjelstrup;25-12-2022 18:21;Joined by User;;;;336
-R000146557;;Carsten Müthel;HERRER DPF100 B (TORSDAG 11-19);28-04-1978;carstenmuthel@hotmail.com;27791159;575598;Carsten Müthel/Martin Damm;29-11-2022 16:07;Joined by User;;;Vipadel Slagelse;117
-R000146644;;Martin Damm;HERRER DPF100 B (TORSDAG 11-19);12-08-1978;martin.damm78@gmail.com;23745078;575598;Carsten Müthel/Martin Damm;29-11-2022 16:07;Joined by User;;;;121
-R000053391;;Søren Christensen;HERRER DPF100 B (TORSDAG 11-19);20-10-1976;sbandholtz@yahoo.dk;20714956;576659;Søren Christensen/Martin Frederiksen;30-11-2022 19:31;Joined by User;;;Racket Club Slagelse;113.5
-R000051632;;Martin Frederiksen;HERRER DPF100 B (TORSDAG 11-19);06-09-1974;frederiksenmartin85@gmail.com;22283008;576659;Søren Christensen/Martin Frederiksen;30-11-2022 19:31;Joined by User;;;Racket Club Slagelse;52
-R000115729;;Jakob Reher;HERRER DPF100 B (TORSDAG 11-19);30-03-1993;jakob@reherzone.dk;23985171;578832;Jakob Reher/Mathias Jørgensen;02-12-2022 14:46;Joined by User;;;Ølstykke Padel;124.3
-R000124205;;Mathias Jørgensen;HERRER DPF100 B (TORSDAG 11-19);28-04-2001;maalmand@gmail.com;53272991;578832;Jakob Reher/Mathias Jørgensen;02-12-2022 14:46;Joined by User;;;Ølstykke Padel;71
-R000147474;;Henrik Juncker;HERRER DPF100 B (TORSDAG 11-19);13-04-1981;henrikbjerrejuncker@hotmail.com;53626169;581700;Henrik Juncker/Sebastian Bøtcher;04-12-2022 19:11;Joined by User;;;Match Padel, Ballerup;163.3
-R000147457;;Sebastian Bøtcher;HERRER DPF100 B (TORSDAG 11-19);07-03-1985;sebastian_boetcher@hotmail.com;60217813;581700;Henrik Juncker/Sebastian Bøtcher;04-12-2022 19:11;Joined by User;;;Match Padel, Ballerup;18.6
-R000123729;;Jeppe Bendtsen;HERRER DPF100 B (TORSDAG 11-19);12-05-1993;jeppe.bendtsen.lykkegaard@gmail.com;23962429;584390;Jeppe Bendtsen/Magnus Lyhne Jessen;06-12-2022 12:20;Joined by User;;;;183
-R000125251;;Magnus Lyhne Jessen;HERRER DPF100 B (TORSDAG 11-19);04-03-1995;magnusjessen10@hotmail.com;51362775;584390;Jeppe Bendtsen/Magnus Lyhne Jessen;06-12-2022 12:20;Joined by User;;;Racket Club;285
-R000150467;;Louis Sand Jensen;HERRER DPF100 B (TORSDAG 11-19);22-02-1998;louissand@hotmail.com;26115202;590631;Louis Sand Jensen/Martin Sand Jensen;11-12-2022 20:46;Joined by User;;;;66.5
-R000141260;;Martin Sand Jensen;HERRER DPF100 B (TORSDAG 11-19);22-06-2000;sandjensen@live.dk;31380460;590631;Louis Sand Jensen/Martin Sand Jensen;11-12-2022 20:46;Joined by User;;;;83
-R000081286;;Victor Vinther;HERRER DPF100 B (TORSDAG 11-19);21-11-2000;victorvinther21@gmail.com;4527592756;601687;Victor Vinther/Peter Sørensen;20-12-2022 13:19;Joined by User;;;Dragør Padel Klub;87
-R000081024;;Peter Sørensen;HERRER DPF100 B (TORSDAG 11-19);01-05-2001;peternbagger@hotmail.dk;29875290;601687;Victor Vinther/Peter Sørensen;20-12-2022 13:19;Joined by User;;;;170
-R000127795;;Victor Boers;HERRER DPF100 B (TORSDAG 11-19);31-12-2002;vicboers@outlook.dk;50702482;602711;Victor Boers/Victor Bech Frandsen;21-12-2022 21:17;Joined by User;;;Racket Club;144
-R000158834;;Victor Bech Frandsen;HERRER DPF100 B (TORSDAG 11-19);15-02-2003;victor.frandsen@gmail.com;42 43 20 52;602711;Victor Boers/Victor Bech Frandsen;21-12-2022 21:17;Joined by User;;;Racket Club;70
-R000135655;;Miki Toft;HERRER DPF50 A (TORSDAG 11-19);17-04-1984;miki-toft@hotmail.com;26338047;581510;Miki Toft/martin hansen;04-12-2022 16:37;Joined by User;;;;44.5
-R000161695;;martin hansen;HERRER DPF50 A (TORSDAG 11-19);15-09-1980;hansenmartin@godmail.dk;28400202;581510;Miki Toft/martin hansen;04-12-2022 16:37;Joined by User;;;;33.5
-R000141192;;Martin Petersen;HERRER DPF50 A (TORSDAG 11-19);31-07-1979;martinpetersen1979@hotmail.com;28108470;581915;Martin Petersen/Morten Bøgeskov;05-12-2022 08:37;Joined by User;;;Match padel Næstved;104
-R000148109;;Morten Bøgeskov;HERRER DPF50 A (TORSDAG 11-19);25-10-1974;mortenblarsen@gmail.com;4551386658;581915;Martin Petersen/Morten Bøgeskov;05-12-2022 08:37;Joined by User;;;Match padel Næstved;23
-R000126355;;Johan Haslund;HERRER DPF50 A (TORSDAG 11-19);28-02-2003;haslundjohan10@gmail.com;40945666;583650;Johan Haslund/Bo Haslund;05-12-2022 20:26;Joined by User;;;Match padel Næstved;131
-R000127853;;Bo Haslund;HERRER DPF50 A (TORSDAG 11-19);05-07-1966;haslund@stofanet.dk;61561519;583650;Johan Haslund/Bo Haslund;05-12-2022 20:26;Joined by User;;;Match padel Næstved;0
-R000163407;;Rasmus Henningsen;HERRER DPF50 A (TORSDAG 11-19);12-06-1987;rasmus.henningsen@cobrapuma.com;28101366;584449;Rasmus Henningsen/andreas jørgensen;06-12-2022 13:43;Joined by User;;;;60
-R000117620;;andreas jørgensen;HERRER DPF50 A (TORSDAG 11-19);no-consent;no-consent;no-consent;584449;Rasmus Henningsen/andreas jørgensen;26-12-2022 10:10;Added by Admin;;;Vipadel Slagelse;0
-R000143234;;Steven Wiis;HERRER DPF50 A (TORSDAG 11-19);07-02-1993;steven@wiis.eu;23926324;596992;Steven Wiis/Mathias Asferg Rasmussen;16-12-2022 19:53;Joined by User;;;Vipadel Slagelse;30
-R000152302;;Mathias Asferg Rasmussen;HERRER DPF50 A (TORSDAG 11-19);08-11-1986;mathiasbr86@gmail.com;4523264331;596992;Steven Wiis/Mathias Asferg Rasmussen;16-12-2022 19:53;Joined by User;;;;12.5
-R000149677;;Magnus Thelin;HERRER DPF50 A (TORSDAG 11-19);10-02-1999;mthelin10@gmail.com;29377041;599109;Magnus Thelin/Villads Østergaard;18-12-2022 13:24;Joined by User;;;;64.5
-R000149681;;Villads Østergaard;HERRER DPF50 A (TORSDAG 11-19);09-11-1998;villads.oestergaard@gmail.com;21229282;599109;Magnus Thelin/Villads Østergaard;18-12-2022 13:24;Joined by User;;;;81
-R000169301;;Michael Brink;HERRER DPF50 A (TORSDAG 11-19);15-08-1965;golfmanager@trelleborggolf.dk;4524412710;599743;Michael Brink/Peter Schelde Møller;19-12-2022 11:44;Joined by User;;;;0
-R000106388;;Peter Schelde Møller;HERRER DPF50 A (TORSDAG 11-19);no-consent;no-consent;no-consent;599743;Michael Brink/Peter Schelde Møller;19-12-2022 11:44;Joined by User;;;My Padel Club;81.5
-R000155516;;Jens Skov Gottschalck;HERRER DPF50 A (TORSDAG 11-19);03-05-1977;miniskov@gmail.com;4528261020;602138;Jens Skov Gottschalck/Thomas Emanuel;21-12-2022 07:55;Joined by User;;;Holbæk tennis og padel klub;33.5
-R000145726;;Thomas Emanuel;HERRER DPF50 A (TORSDAG 11-19);15-04-1975;emanuelthomas@hotmail.com;52 39 15 75;602138;Jens Skov Gottschalck/Thomas Emanuel;21-12-2022 07:55;Joined by User;;;Holbæk tennis og padel klub;80.5
-R000153102;;Tom Mayland Kristensen;HERRER DPF50 B (TORSDAG 11-19;12-03-1981;tomik@live.dk;29725262;579624;Tom Mayland Kristensen/Mathias Lykke;02-12-2022 22:16;Joined by User;;;;17
-R000120797;;Mathias Lykke;HERRER DPF50 B (TORSDAG 11-19;no-consent;no-consent;no-consent;579624;Tom Mayland Kristensen/Mathias Lykke;25-12-2022 17:26;Added by Admin;;;Padelfun4all;11.2
-R000133283;;Peter Olsen;HERRER DPF50 B (TORSDAG 11-19;no-consent;no-consent;no-consent;583241;Peter Olsen/Peter Jensen;21-12-2022 18:44;Added by Admin;;;Vipadel Slagelse;0
-R000147359;;Peter Jensen;HERRER DPF50 B (TORSDAG 11-19;06-09-1975;pmattie@hotmail.com;28181880;583241;Peter Olsen/Peter Jensen;05-12-2022 15:09;Joined by User;;;Vipadel Slagelse;22
-R000169635;;Anders Bo Jensen;HERRER DPF50 B (TORSDAG 11-19;02-01-1985;andersgroen85@gmail.com;31218978;586265;Anders Bo Jensen/André Vinsløv;07-12-2022 17:43;Joined by User;;;;0
-R000120574;;André Vinsløv;HERRER DPF50 B (TORSDAG 11-19;01-01-1984;andrev22@hotmail.com;607592;586265;Anders Bo Jensen/André Vinsløv;07-12-2022 17:43;Joined by User;;;Padelfun4all;2.4
-R000147692;;Milas Kantur;HERRER DPF50 B (TORSDAG 11-19;12-11-2008;milas@kantur.dk;31235751;598580;Milas Kantur/Willads Rozanov;17-12-2022 21:29;Joined by User;;;Racket Club;12
-R000135504;;Willads Rozanov;HERRER DPF50 B (TORSDAG 11-19;13-04-2005;willadsar@gmail.com;24206788;598580;Milas Kantur/Willads Rozanov;17-12-2022 21:29;Joined by User;;;Racket Club Kløver;29
-R000171204;;Mikkel Kliver;HERRER DPF50 B (TORSDAG 11-19;04-03-1990;kliver_1@hotmail.com;25135237;603423;Mikkel Kliver/Emil Nielsen;22-12-2022 13:46;Joined by User;;;;0
-R000171447;;Emil Nielsen;HERRER DPF50 B (TORSDAG 11-19;25-03-1991;mail@entoemrer.dk;21352834;603423;Mikkel Kliver/Emil Nielsen;22-12-2022 13:46;Joined by User;;;;0
-R000149478;;Jens Emery Høystad;HERRER DPF50 B (TORSDAG 11-19;22-05-1974;jensh@hoystad.dk;26296026;603788;Jens Emery Høystad/Jeppe Emery Høystad;22-12-2022 19:06;Joined by User;;;Lynge-Broby Idrætsforening;0
-R000147622;;Jeppe Emery Høystad;HERRER DPF50 B (TORSDAG 11-19;04-09-2003;jeppe@hoystad.dk;4551959214;603788;Jens Emery Høystad/Jeppe Emery Høystad;22-12-2022 19:06;Joined by User;;;Lynge-Broby Idrætsforening;20
-R000171646;;Frederik Falck Laybourn Sixhøi;HERRER DPF50 B (TORSDAG 11-19;14-10-1989;fr_falck@live.dk;51239505;604732;Frederik Falck Laybourn Sixhøi/Henrik Larsen;24-12-2022 07:02;Joined by User;;;;0
-R000171612;;Henrik Larsen;HERRER DPF50 B (TORSDAG 11-19;25-04-1990;henriklarsen90@gmail.com;28606181;604732;Frederik Falck Laybourn Sixhøi/Henrik Larsen;24-12-2022 07:48;Joined by User;;;;0
-R000157360;;Mads Borges Bygum;HERRER DPF50 B (TORSDAG 11-19;01-12-1994;madsbygum@hotmail.com;71102892;606189;Mads Borges Bygum/Marco Valentin Reinbach;25-12-2022 18:23;Joined by User;;;Lynge-Broby Idrætsforening;19
-R000171740;;Marco Valentin Reinbach;HERRER DPF50 B (TORSDAG 11-19;no-consent;no-consent;no-consent;606189;Mads Borges Bygum/Marco Valentin Reinbach;25-12-2022 18:23;Joined by User;;;;0
-R000162163;;Nicolai Jensen;VENTELISTE HERRER;09-08-1993;nicolaisebjensen@hotmail.com;26365490;584105;Nicolai Jensen/Mads Gjerrild;06-12-2022 09:34;Joined by User;;;Racket Club Kløver;0
-R000169401;;Mads Gjerrild;VENTELISTE HERRER;27-12-1992;gjerrildmads@gmail.com;28146093;584105;Nicolai Jensen/Mads Gjerrild;06-12-2022 09:34;Joined by User;;;;0
-R000171624;;Martin Bjerre Hansen;VENTELISTE HERRER;28-02-1983;martinbjerrehansen@hotmail.com;42 65 25 25;604436;Martin Bjerre Hansen/Bob Borella;23-12-2022 19:32;Joined by User;;;;0
-R000171635;;Bob Borella;VENTELISTE HERRER;27-06-1980;bobborella@gmail.com;4520812191;604436;Martin Bjerre Hansen/Bob Borella;23-12-2022 21:38;Joined by User;;;;0
-R000164451;;Nicky Jensen;VENTELISTE HERRER;07-10-1984;nbj84@live.dk;31539757;604682;Nicky Jensen/Mathias Kirkeskov;23-12-2022 22:29;Joined by User;;;Holbæk tennis og padel klub;0
-R000171142;;Mathias Kirkeskov;VENTELISTE HERRER;no-consent;no-consent;no-consent;604682;Nicky Jensen/Mathias Kirkeskov;23-12-2022 22:29;Joined by User;;;;0
-R000148745;;Linda Kamstrup;VENTELISTE MIX;13-06-1979;lindakamstrup@hotmail.com;31717977;584059;Linda Kamstrup/Simon Egebjerg;06-12-2022 07:55;Joined by User;;;Lynge-Broby Idrætsforening;0
-R000148078;;Simon Egebjerg;VENTELISTE MIX;30-04-1989;forza10owen@me.com;28791188;584059;Linda Kamstrup/Simon Egebjerg;06-12-2022 07:55;Joined by User;;;;0
-R000064659;;Patrick O'Neill;VENTELISTE MIX;04-10-1990;patrick@oneill.dk;28590556;603796;Patrick O'Neill/Malou Jønsby O'Neill;22-12-2022 19:22;Joined by User;;;Ølstykke Padel;10
-R000075510;;Malou Jønsby O'Neill;VENTELISTE MIX;no-consent;no-consent;no-consent;603796;Patrick O'Neill/Malou Jønsby O'Neill;22-12-2022 19:22;Joined by User;;;Jægerspris Tennis Klub;10
+﻿"Id";"SPIN";"Name";"Class";"BirthDate";"Email";"Phone";"TeamId";"TeamName";"EntryDate";"EntryInfo";"PaymentDate";"PaymentInfo";"Player's Home Club";"Ranking Points"
+"R000064395";"";"Daniel Paske";"HERRER DPF200 (09:00-14:00)";"1986-08-06";"danielpaske@hotmail.com";"51 94 04 74";"602045";"Daniel Paske/Mikkel Carlsson";"2022-12-20 21:18";"Joined by User";"";"";"Racket Club Slagelse";"259"
+"R000074862";"";"Mikkel Carlsson";"HERRER DPF200 (09:00-14:00)";"1989-05-10";"mikkelcarls@gmail.com";"93936504";"602045";"Daniel Paske/Mikkel Carlsson";"2022-12-20 21:18";"Joined by User";"";"";"Racket Club";"67"
+"R000128225";"";"Anders Dickow";"HERRER DPF200 (09:00-14:00)";"1975-07-01";"anders_dickow@yahoo.com";"22900996";"614362";"Anders Dickow/mikkel Poulsen";"2022-12-31 13:29";"Joined by User";"";"";"";"299.5"
+"R000130707";"";"mikkel Poulsen";"HERRER DPF200 (09:00-14:00)";"1974-04-11";"mikkelpoulsen@mac.com";"51547662";"614362";"Anders Dickow/mikkel Poulsen";"2022-12-31 13:29";"Joined by User";"";"";"Match padel Næstved";"85"
+"R000082820";"";"Simon Jørgensen";"HERRER DPF200 (09:00-14:00)";"1999-04-16";"simon2dencher@gmail.com";"+4540502599";"614743";"Simon Jørgensen/Simon Schultz";"2023-01-01 14:36";"Joined by User";"";"";"";"453.3"
+"R000101700";"";"Simon Schultz";"HERRER DPF200 (09:00-14:00)";"2001-05-28";"simon.schultz10@gmail.com";"30605508";"614743";"Simon Jørgensen/Simon Schultz";"2023-01-01 14:36";"Joined by User";"";"";"";"77"
+"R000118469";"";"Thomas Rune";"HERRER DPF200 (09:00-14:00)";"1982-07-02";"tr@mtmservice.dk";"22337284";"616192";"Thomas Rune/Kristoffer Münchow";"2023-01-02 15:31";"Joined by User";"";"";"Match padel Næstved";"966"
+"R000101254";"";"Kristoffer Münchow";"HERRER DPF200 (09:00-14:00)";"1990-03-15";"kmunchow@live.dk";"28498900";"616192";"Thomas Rune/Kristoffer Münchow";"2023-01-02 15:31";"Joined by User";"";"";"Match padel Næstved";"344"
+"R000135936";"";"Jesper Lund";"HERRER DPF200 (09:00-14:00)";"1981-01-16";"jesperlund@live.dk";"24909552";"616374";"Jesper Lund/Esben Nielsen";"2023-01-02 17:33";"Joined by User";"";"";"Match padel Næstved";"472"
+"R000056027";"";"Esben Nielsen";"HERRER DPF200 (09:00-14:00)";"1979-04-10";"esben_r@hotmail.com";"20453198";"616374";"Jesper Lund/Esben Nielsen";"2023-01-02 17:33";"Joined by User";"";"";"Racket Club Slagelse";"246"
+"R000055008";"";"Peter Mørk";"HERRER DPF200 (09:00-14:00)";"1982-09-01";"info@morkovhallen.dk";"20875941";"618685";"Peter Mørk/Christian Dalsgaard";"2023-01-03 21:45";"Joined by User";"";"";"Mørkøv Padel Klub";"589.5"
+"R000056092";"";"Christian Dalsgaard";"HERRER DPF200 (09:00-14:00)";"1982-11-08";"christian@dalsgaard.org";"20974731";"618685";"Peter Mørk/Christian Dalsgaard";"2023-01-03 21:45";"Joined by User";"";"";"Holbæk tennis og padel klub";"660"
+"R000044034";"";"Martin Villadsen";"HERRER DPF200 (09:00-14:00)";"1976-10-07";"fifavilla@gmail.com";"004522703193";"619117";"Martin Villadsen/Andreas Obel";"2023-01-04 12:46";"Joined by User";"";"";"";"339"
+"R000142107";"";"Andreas Obel";"HERRER DPF200 (09:00-14:00)";"2001-03-06";"aoebox12@hotmail.com";"40751631";"619117";"Martin Villadsen/Andreas Obel";"2023-01-04 12:46";"Joined by User";"";"";"";"52.5"
+"R000080838";"";"Nichlas Hindsberg";"HERRER DPF200 (09:00-14:00)";"1975-05-07";"nichlashjem@gmail.com";"31521228";"619136";"Nichlas Hindsberg/Nicklas Kany";"2023-01-04 13:29";"Joined by User";"";"";"Dansk Padel Forbund";"980.5"
+"R000132394";"";"Nicklas Kany";"HERRER DPF200 (09:00-14:00)";"1984-07-15";"nicklaskany@yahoo.dk";"31216556";"619136";"Nichlas Hindsberg/Nicklas Kany";"2023-01-04 13:29";"Joined by User";"";"";"Racket Club Kløver";"738.8"
+"R000076774";"";"Nicolai Hollmann";"MIX DPF200 (10:00-14:00)";"1990-08-16";"ttt_2640@hotmail.com";"53669965";"592498";"Nicolai Hollmann/Sandra Borgensgaard Johansen";"2022-12-13 20:04";"Joined by User";"";"";"";"605"
+"R000115794";"";"Sandra Borgensgaard Johansen";"MIX DPF200 (10:00-14:00)";"1994-06-26";"sannbj@hotmail.com";"81 61 85 85";"592498";"Nicolai Hollmann/Sandra Borgensgaard Johansen";"2022-12-13 20:04";"Joined by User";"";"";"PadelPadel København";"710"
+"R000108049";"";"Philip Larsen";"MIX DPF200 (10:00-14:00)";"1992-06-16";"philipcl787@hotmail.com";"60 24 05 87";"615617";"Philip Larsen/Linda Kamstrup";"2023-01-02 11:52";"Joined by User";"";"";"DANISH PADEL TOUR";"199.6"
+"R000148745";"";"Linda Kamstrup";"MIX DPF200 (10:00-14:00)";"1979-06-13";"lindakamstrup@hotmail.com";"31717977";"615617";"Philip Larsen/Linda Kamstrup";"2023-01-02 11:52";"Joined by User";"";"";"Lynge-Broby Idrætsforening";"0"
+"R000169301";"";"Michael Brink";"MIX DPF200 (10:00-14:00)";"1965-08-15";"golfmanager@trelleborggolf.dk";"+4524412710";"616237";"Michael Brink/Anne Kruse";"2023-01-02 16:45";"Joined by User";"";"";"";"0"
+"R000144000";"";"Anne Kruse";"MIX DPF200 (10:00-14:00)";"1973-02-17";"kruse_dulle@hotmail.com";"29613903";"616237";"Michael Brink/Anne Kruse";"2023-01-02 16:45";"Joined by User";"";"";"Vipadel Slagelse";"0"
+"R000158852";"";"Mette Booker";"MIX DPF200 (10:00-14:00)";"1976-01-17";"mette.booker@hotmail.com";"28516289";"616466";"Mette Booker/Christian Burchardt";"2023-01-02 18:06";"Joined by User";"";"";"Vipadel Slagelse";"0"
+"R000172817";"";"Christian Burchardt";"MIX DPF200 (10:00-14:00)";"no-consent";"no-consent";"no-consent";"616466";"Mette Booker/Christian Burchardt";"2023-01-02 18:06";"Joined by User";"";"";"";"0"
+"R000144836";"";"Ulla Qwist";"MIX DPF200 (10:00-14:00)";"1973-10-09";"uqwist@gmail.com";"24892110";"618563";"Ulla Qwist/Jan Merling-Petersen";"2023-01-03 20:09";"Joined by User";"";"";"Vipadel Slagelse";"16"
+"R000120898";"";"Jan Merling-Petersen";"MIX DPF200 (10:00-14:00)";"no-consent";"no-consent";"no-consent";"618563";"Ulla Qwist/Jan Merling-Petersen";"2023-01-03 20:09";"Joined by User";"";"";"";"0"
+"R000117448";"";"pia munk";"MIX DPF200 (10:00-14:00)";"1975-05-18";"munk2u@hotmail.com";"22295340";"619574";"pia munk/Søren Kruse";"2023-01-04 18:03";"Joined by User";"";"";"Holbæk Padel Klub";"0"
+"R000063210";"";"Søren Kruse";"MIX DPF200 (10:00-14:00)";"no-consent";"no-consent";"no-consent";"619574";"pia munk/Søren Kruse";"2023-01-04 18:03";"Joined by User";"";"";"Holbæk Padel Klub";"0"
+"R000134814";"";"Mie Ekdahl";"MIX DPF200 (10:00-14:00)";"1989-05-20";"ekdahl_junior@hotmail.com";"20950875";"619773";"Mie Ekdahl/Nick Olsen";"2023-01-04 19:37";"Joined by User";"";"";"Vipadel Slagelse";"123"
+"R000118042";"";"Nick Olsen";"MIX DPF200 (10:00-14:00)";"1985-05-08";"olsennick1985@gmail.com";"28578830";"619773";"Mie Ekdahl/Nick Olsen";"2023-01-04 19:37";"Joined by User";"";"";"Dansk Padel Forbund";"0"
+"R000051632";"";"Martin Frederiksen";"MIX DPF200 (10:00-14:00)";"1974-09-06";"frederiksenmartin85@gmail.com";"22283008";"619955";"Martin Frederiksen/Line Ekdahl";"2023-01-04 20:19";"Joined by User";"";"";"Racket Club Slagelse";"0"
+"R000119668";"";"Line Ekdahl";"MIX DPF200 (10:00-14:00)";"1987-06-09";"ekdahl_senior@hotmail.com";"004520451891";"619955";"Martin Frederiksen/Line Ekdahl";"2023-01-04 19:43";"Joined by User";"";"";"Vipadel Slagelse";"0"
+"R000073980";"";"Mikkel Bodzioch";"HERRER DPF100 (13:30-20:00)";"1997-10-26";"mbodzioch@live.dk";"30936008";"588504";"Mikkel Bodzioch/Emil Arleth";"2022-12-09 16:19";"Joined by User";"";"";"";"93"
+"R000060607";"";"Emil Arleth";"HERRER DPF100 (13:30-20:00)";"1996-12-25";"emil.arleth@gmail.com";"20725344";"588504";"Mikkel Bodzioch/Emil Arleth";"2022-12-09 16:19";"Joined by User";"";"";"Racket Club";"72"
+"R000120751";"";"Søren Saugmann Larsen";"HERRER DPF100 (13:30-20:00)";"1980-01-06";"larsen@sd-s.dk";"27107300";"590223";"Søren Saugmann Larsen/Jesper Höilund Jensen";"2022-12-11 11:16";"Joined by User";"";"";"Padelfun4all";"53.9"
+"R000114912";"";"Jesper Höilund Jensen";"HERRER DPF100 (13:30-20:00)";"1992-11-30";"jesper263@hotmail.com";"31313174";"590223";"Søren Saugmann Larsen/Jesper Höilund Jensen";"2022-12-11 11:16";"Joined by User";"";"";"Match padel Næstved";"38"
+"R000135655";"";"Miki Toft";"HERRER DPF100 (13:30-20:00)";"1984-04-17";"miki-toft@hotmail.com";"26338047";"602022";"Miki Toft/martin hansen";"2022-12-20 19:56";"Joined by User";"";"";"";"44.5"
+"R000161695";"";"martin hansen";"HERRER DPF100 (13:30-20:00)";"1980-09-15";"hansenmartin@godmail.dk";"28400202";"602022";"Miki Toft/martin hansen";"2022-12-20 19:56";"Joined by User";"";"";"";"33.5"
+"R000053391";"";"Søren Christensen";"HERRER DPF100 (13:30-20:00)";"1976-10-20";"sbandholtz@yahoo.dk";"20714956";"607272";"Søren Christensen/Martin Frederiksen";"2022-12-27 11:17";"Joined by User";"";"";"Racket Club Slagelse";"113.5"
+"R000051632";"";"Martin Frederiksen";"HERRER DPF100 (13:30-20:00)";"1974-09-06";"frederiksenmartin85@gmail.com";"22283008";"607272";"Søren Christensen/Martin Frederiksen";"2022-12-27 11:17";"Joined by User";"";"";"Racket Club Slagelse";"52"
+"R000129923";"";"Jonathan Johansen";"HERRER DPF100 (13:30-20:00)";"1994-03-29";"jayer_4700@live.dk";"26148357";"612790";"Jonathan Johansen/Sebastian Johansen";"2022-12-30 19:25";"Joined by User";"";"";"Match padel Næstved";"84"
+"R000145199";"";"Sebastian Johansen";"HERRER DPF100 (13:30-20:00)";"1992-07-14";"sebbejohansen@hotmail.com";"27821407";"612790";"Jonathan Johansen/Sebastian Johansen";"2022-12-30 19:25";"Joined by User";"";"";"Match padel Næstved";"93"
+"R000146557";"";"Carsten Müthel";"HERRER DPF100 (13:30-20:00)";"1978-04-28";"carstenmuthel@hotmail.com";"27791159";"613557";"Carsten Müthel/Martin Damm";"2022-12-31 08:20";"Joined by User";"";"";"Vipadel Slagelse";"117"
+"R000146644";"";"Martin Damm";"HERRER DPF100 (13:30-20:00)";"1978-08-12";"martin.damm78@gmail.com";"23745078";"613557";"Carsten Müthel/Martin Damm";"2022-12-31 08:20";"Joined by User";"";"";"";"121"
+"R000118021";"";"Henrik Neergaard Jacobsen";"HERRER DPF100 (13:30-20:00)";"1972-12-06";"hj01kvc@gmail.com";"23950043";"616713";"Henrik Neergaard Jacobsen/Thomas Olsen";"2023-01-02 19:36";"Joined by User";"";"";"";"31"
+"R000047147";"";"Thomas Olsen";"HERRER DPF100 (13:30-20:00)";"1979-05-21";"thomassolsen@outlook.dk";"71211637";"616713";"Henrik Neergaard Jacobsen/Thomas Olsen";"2023-01-02 19:36";"Joined by User";"";"";"Dansk Padel Forbund";"69.7"
+"R000123484";"";"Rasmus Mathiesen";"HERRER DPF100 (13:30-20:00)";"1988-12-03";"mathiesenrasmus@gmail.com";"60518583";"619175";"Rasmus Mathiesen/Mads Bo Pedersen";"2023-01-04 14:22";"Joined by User";"";"";"Match padel Næstved";"195"
+"R000118523";"";"Mads Bo Pedersen";"HERRER DPF100 (13:30-20:00)";"1994-11-12";"xmadsbopedersen@hotmail.com";"24666867";"619175";"Rasmus Mathiesen/Mads Bo Pedersen";"2023-01-04 14:22";"Joined by User";"";"";"Match padel Næstved";"69"
+"R000134814";"";"Mie Ekdahl";"DAME DPF100 (15:00-21:00)";"1989-05-20";"ekdahl_junior@hotmail.com";"20950875";"586096";"Mie Ekdahl/Line Ekdahl";"2022-12-07 15:39";"Joined by User";"";"";"Vipadel Slagelse";"87"
+"R000119668";"";"Line Ekdahl";"DAME DPF100 (15:00-21:00)";"1987-06-09";"ekdahl_senior@hotmail.com";"004520451891";"586096";"Mie Ekdahl/Line Ekdahl";"2022-12-07 15:39";"Joined by User";"";"";"Vipadel Slagelse";"262"
+"R000044020";"";"Rikke Kolding Hansen";"DAME DPF100 (15:00-21:00)";"1976-01-07";"rikke.kh@gmail.com";"22648542";"587008";"Rikke Kolding Hansen/Lene Andersen";"2022-12-08 13:32";"Joined by User";"";"";"Vipadel Slagelse";"381"
+"R000144623";"";"Lene Andersen";"DAME DPF100 (15:00-21:00)";"1976-03-09";"lesan@slagelse.dk";"51563687";"587008";"Rikke Kolding Hansen/Lene Andersen";"2022-12-08 13:32";"Joined by User";"";"";"Vipadel Slagelse";"60"
+"R000120771";"";"Janni Lykke";"DAME DPF100 (15:00-21:00)";"1980-04-18";"famlykke@ka-net.dk";"29254056";"611672";"Janni Lykke/Merete Mørch";"2022-12-29 22:27";"Joined by User";"";"";"Padelfun4all";"38"
+"R000150763";"";"Merete Mørch";"DAME DPF100 (15:00-21:00)";"no-consent";"no-consent";"no-consent";"611672";"Janni Lykke/Merete Mørch";"2022-12-29 22:27";"Joined by User";"";"";"Padelfun4all";"15"
+"R000148332";"";"Yvonne Emery Høystad";"DAME DPF100 (15:00-21:00)";"1971-09-07";"yvonneemery7@gmail.com";"27639214";"614855";"Yvonne Emery Høystad/Linda Kamstrup";"2023-01-01 18:03";"Joined by User";"";"";"Lynge-Broby Idrætsforening";"33"
+"R000148745";"";"Linda Kamstrup";"DAME DPF100 (15:00-21:00)";"1979-06-13";"lindakamstrup@hotmail.com";"31717977";"614855";"Yvonne Emery Høystad/Linda Kamstrup";"2023-01-01 18:03";"Joined by User";"";"";"Lynge-Broby Idrætsforening";"24"
+"R000118695";"";"Tine Bjørneboe";"DAME DPF100 (15:00-21:00)";"1976-12-16";"tine@1612.dk";"22993594";"616657";"Tine Bjørneboe/Majken Nørregaard";"2023-01-02 18:51";"Joined by User";"";"";"";"206"
+"R000119954";"";"Majken Nørregaard";"DAME DPF100 (15:00-21:00)";"1996-10-13";"majkenfodbold@hotmail.com";"20911338";"616657";"Tine Bjørneboe/Majken Nørregaard";"2023-01-02 18:51";"Joined by User";"";"";"";"415"
+"R000173476";"";"Anne Borup";"DAME DPF100 (15:00-21:00)";"1973-03-22";"at@vucklar.dk";"61694868";"621556";"Anne Borup/Mette Ottesen";"2023-01-06 09:04";"Joined by User";"";"";"";"0"
+"R000163742";"";"Mette Ottesen";"DAME DPF100 (15:00-21:00)";"1978-11-02";"mmette@hotmail.com";"26242372";"621556";"Anne Borup/Mette Ottesen";"2023-01-06 09:04";"Joined by User";"";"";"Racket Club Slagelse";"0"
+"R000158870";"";"Kristoffer Nielsen";"HERRER DPF50 (15:00-21:00)";"2003-11-18";"kristofferkris10@gmail.com";"31390108";"603762";"Kristoffer Nielsen/Magnus Frederiksen";"2022-12-22 18:14";"Joined by User";"";"";"";"0"
+"R000171501";"";"Magnus Frederiksen";"HERRER DPF50 (15:00-21:00)";"2004-05-31";"mtf3232@gmail.com";"42464241";"603762";"Kristoffer Nielsen/Magnus Frederiksen";"2022-12-22 18:14";"Joined by User";"";"";"";"0"
+"R000171204";"";"Mikkel Kliver";"HERRER DPF50 (15:00-21:00)";"1990-03-04";"kliver_1@hotmail.com";"25135237";"606947";"Mikkel Kliver/Emil Nielsen";"2022-12-26 20:13";"Joined by User";"";"";"";"0"
+"R000171447";"";"Emil Nielsen";"HERRER DPF50 (15:00-21:00)";"1991-03-25";"mail@entoemrer.dk";"21352834";"606947";"Mikkel Kliver/Emil Nielsen";"2022-12-26 20:13";"Joined by User";"";"";"";"0"
+"R000157360";"";"Mads Borges Bygum";"HERRER DPF50 (15:00-21:00)";"1994-12-01";"madsbygum@hotmail.com";"71102892";"610737";"Mads Borges Bygum/Simon Egebjerg";"2022-12-29 14:27";"Joined by User";"";"";"Lynge-Broby Idrætsforening";"19"
+"R000148078";"";"Simon Egebjerg";"HERRER DPF50 (15:00-21:00)";"1989-04-30";"forza10owen@me.com";"28791188";"610737";"Mads Borges Bygum/Simon Egebjerg";"2022-12-29 14:27";"Joined by User";"";"";"";"17"
+"R000163407";"";"Rasmus Henningsen";"HERRER DPF50 (15:00-21:00)";"1987-06-12";"rasmus.henningsen@cobrapuma.com";"28101366";"610843";"Rasmus Henningsen/andreas jørgensen";"2022-12-29 15:28";"Joined by User";"";"";"Vipadel Slagelse";"60"
+"R000117620";"";"andreas jørgensen";"HERRER DPF50 (15:00-21:00)";"1998-08-15";"ajprivata@gmail.com";"25123080";"610843";"Rasmus Henningsen/andreas jørgensen";"2022-12-29 15:28";"Joined by User";"";"";"Vipadel Slagelse";"0"
+"R000120574";"";"André Vinsløv";"HERRER DPF50 (15:00-21:00)";"1984-01-01";"andrev22@hotmail.com";"607592";"611180";"André Vinsløv/Allan Holst";"2022-12-29 17:42";"Joined by User";"";"";"Vipadel Slagelse";"2.4"
+"R000157272";"";"Allan Holst";"HERRER DPF50 (15:00-21:00)";"1977-03-19";"allan@aholst.dk";"53778080";"611180";"André Vinsløv/Allan Holst";"2022-12-29 17:42";"Joined by User";"";"";"";"2"
+"R000148789";"";"Joachim Engelbrecht";"HERRER DPF50 (15:00-21:00)";"1991-06-29";"engelbrecht@hotmail.dk";"31486454";"611474";"Joachim Engelbrecht/Peter Hansen";"2022-12-29 20:44";"Joined by User";"";"";"Lynge-Broby Idrætsforening";"47"
+"R000148312";"";"Peter Hansen";"HERRER DPF50 (15:00-21:00)";"1997-10-03";"peter.vh234@gmail.com";"20582999";"611474";"Joachim Engelbrecht/Peter Hansen";"2022-12-29 20:44";"Joined by User";"";"";"Lynge-Broby Idrætsforening";"70.5"
+"R000142078";"";"Christian Skou Larsen";"HERRER DPF50 (15:00-21:00)";"1991-11-01";"crillz@live.dk";"41420699";"612087";"Christian Skou Larsen/Christian Larsen";"2022-12-30 12:35";"Joined by User";"";"";"";"24.5"
+"R000142102";"";"Christian Larsen";"HERRER DPF50 (15:00-21:00)";"1992-11-02";"raul-nr18@hotmail.com";"28498452";"612087";"Christian Skou Larsen/Christian Larsen";"2022-12-30 12:35";"Joined by User";"";"";"";"24.5"
+"R000152302";"";"Mathias Asferg Rasmussen";"HERRER DPF50 (15:00-21:00)";"1986-11-08";"mathiasbr86@gmail.com";"+4523264331";"614722";"Mathias Asferg Rasmussen/Anders Skjødt";"2023-01-01 13:33";"Joined by User";"";"";"";"12.5"
+"R000172576";"";"Anders Skjødt";"HERRER DPF50 (15:00-21:00)";"1983-05-12";"a_skjoedt@godmail.dk";"+4524263256";"614722";"Mathias Asferg Rasmussen/Anders Skjødt";"2023-01-01 13:33";"Joined by User";"";"";"";"0"
+"R000161053";"";"Nicki Steffensen";"VENTELISTE HERRER";"1987-11-15";"sirnicki87@hotmail.com";"42586992";"581060";"Nicki Steffensen/Mikkel andersen";"2022-12-03 22:00";"Joined by User";"";"";"PadelPadel Århus";"31"
+"R000163032";"";"Mikkel andersen";"VENTELISTE HERRER";"1997-12-21";"mikkerboy97@hotmail.com";"30295444";"581060";"Nicki Steffensen/Mikkel andersen";"2022-12-03 22:00";"Joined by User";"";"";"";"0"
+"R000125083";"";"Rasmus Merling";"VENTELISTE HERRER";"2001-07-24";"rasmus10448@hotmail.dk";"604 800 24";"587348";"Rasmus Merling/Arbnor Selmani";"2022-12-08 18:40";"Joined by User";"";"";"";"53"
+"R000122193";"";"Arbnor Selmani";"VENTELISTE HERRER";"2001-05-24";"arbnorselmani@outlook.dk";"42244599";"587348";"Rasmus Merling/Arbnor Selmani";"2022-12-08 18:40";"Joined by User";"";"";"";"13"
+"R000145576";"";"Kenneth Pedersen";"VENTELISTE HERRER";"1985-04-05";"kepe85@gmail.com";"305 044 26";"616485";"Kenneth Pedersen/Mads Fyhr";"2023-01-02 18:16";"Joined by User";"";"";"Vipadel Slagelse";"106"
+"R000146192";"";"Mads Fyhr";"VENTELISTE HERRER";"no-consent";"no-consent";"no-consent";"616485";"Kenneth Pedersen/Mads Fyhr";"2023-01-02 18:16";"Joined by User";"";"";"";"76"
+"R000075043";"";"Gert Sørensen";"VENTELISTE HERRER";"no-consent";"no-consent";"no-consent";"619074";"Gert Sørensen/Peter Olsen";"2023-01-04 11:17";"Added by Admin";"";"";"My Padel Club";"36.2"
+"R000133283";"";"Peter Olsen";"VENTELISTE HERRER";"no-consent";"no-consent";"no-consent";"619074";"Gert Sørensen/Peter Olsen";"2023-01-04 11:17";"Added by Admin";"";"";"Vipadel Slagelse";"0"
+"R000143347";"";"Vanessa Salinas";"VENTELISTE MIX";"1980-02-22";"vanessa@kgk.dk";"20209884";"617353";"Vanessa Salinas/Jesper Jørgensen";"2023-01-03 09:57";"Joined by User";"";"";"";"320"
+"R000076222";"";"Jesper Jørgensen";"VENTELISTE MIX";"1973-11-10";"jesperjorgensen1973@gmail.com";"51305137";"617353";"Vanessa Salinas/Jesper Jørgensen";"2023-01-03 09:57";"Joined by User";"";"";"Padelhuset";"200"
