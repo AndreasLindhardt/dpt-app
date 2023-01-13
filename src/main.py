@@ -4,7 +4,6 @@ import time
 from streamlit_server_state import server_state, server_state_lock
 
 df = pd.read_csv('./res/list-of-players.csv', delimiter=';')
-df = df[~df["Class"].str.contains('TORSDAG')]
 
 list_of_teams = sorted(list(set(df["TeamName"])))
 
@@ -14,20 +13,14 @@ if "check_in_dict" not in server_state:
     server_state.check_in_dict = {}
 
 def check_team_in(team):
-    if team in server_state.check_in_dict.keys():
-        if server_state.check_in_dict[team] == 1:
-            server_state.check_in_dict[team] = 0
-            st.markdown(f'{team}, er nu tjekket ud igen.')
-        else:
-            server_state.check_in_dict[team] = 1
-            st.balloons()
-            time.sleep(1.8)
-            st.markdown(f'## Velkommen {team}, I er nu tjekket ind. ##')
-    else:
-        server_state.check_in_dict[team] = 1
-        st.balloons()
-        time.sleep(1.8)
-        st.markdown(f'### Velkommen {team}, I er nu tjekket ind. ###')
+    server_state.check_in_dict[team] = 1
+    st.balloons()
+    time.sleep(1.8)
+    st.markdown(f'## Velkommen {team}, I er nu tjekket ind. ##')
+    
+def check_team_out(team):
+    server_state.check_in_dict[team] = 0
+    st.success(f'{team}, er nu tjekket ud igen.') 
 
 st.set_page_config(
     page_title='DPT CHECK IN',
@@ -51,10 +44,23 @@ if view == 'Indmelding':
     st.markdown('---')
     team = st.selectbox('Vælg par (begynd at skrive i feltet for at søge)', list_of_teams)
 
-    check_in = st.button('Check in')
+   
+    
 
-    if check_in:
-        check_team_in(team)
+    if team in server_state.check_in_dict.keys():
+        if server_state.check_in_dict[team] == 1:
+            st.warning(f"*{team} er allerede tjekket ind. Skal teamet checkes ud igen?*")
+            check_out = st.button('Check ud', key='check_out_btn')
+            if check_out:
+                check_team_out(team)
+        else:
+            check_in = st.button('Check ind', key='check_in_btn')
+            if check_in:
+                check_team_in(team)
+    else:
+        check_in = st.button('Check ind', key='check_in_btn')
+        if check_in:
+            check_team_in(team)
 
     st.write(" ")
     st.write(" ")
